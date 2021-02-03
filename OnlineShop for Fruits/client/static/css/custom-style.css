@@ -1,0 +1,19 @@
+.custom-search-box {
+    width: 100%;
+    border: none;
+    outline: none;
+    border-bottom: 1px solid #004d76;
+    color: #ffffff;
+    background-color: transparent;
+    padding: 0 2%;
+    box-sizing: border-box;
+}
+.custom-bg-orange {
+    background-color: #ffc107 !important;
+}
+.custom-link-color {
+    color: #ffc107 !important;
+}
+.custom-link-color:hover {
+    color: #ffc107 !important;
+}

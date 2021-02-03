@@ -1,0 +1,17 @@
+.jumbotron {
+    padding: 1rem 2rem !important;
+}
+
+.main {
+    padding: 50px 0 !important;
+    position: relative !important;
+}
+
+.form-row {
+    margin: 0 -15px !important; 
+}
+.form-row .form-group {
+    width: 40% !important;
+    padding: 0 15px !important; 
+}
+  

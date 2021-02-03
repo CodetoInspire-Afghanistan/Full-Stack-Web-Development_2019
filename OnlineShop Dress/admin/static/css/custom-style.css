@@ -1,0 +1,98 @@
+body{
+	font-size: 12px;
+	font-family: 'Open Sans', arial, tahoma, sans-serif;
+}
+.jumbotron {
+    padding: 1rem 2rem !important;
+}
+/* Modal */
+.modal-backdrop {
+    z-index: -1 !important;
+}
+
+/* form */
+.custom-choosefile-button{
+    border: 2px dashed #ccc;
+    width: 80px;
+    height: 90px;
+    cursor: pointer;
+    line-height: 110px;
+    text-align: center;
+  }
+  .custom-choosefile-button input{
+    display: none;
+  }
+.custom-btn-color {
+   background: linear-gradient(to bottom,#f7dfa5,#f08d4b);   
+}
+.custom-btn {
+    cursor: pointer;
+}
+.myCarousel .thumbnails li{
+	border:1px solid #eee;
+	margin-bottom:0;
+}
+.product-box{
+	text-align:center;
+	padding-bottom:15px;
+	position: relative;
+	background-color:#f8f8f8;
+	border-radius: 4px;
+	-moz-border-radius: 4px;
+	-webkit-border-radius: 4px;
+	border-bottom:1px solid #eee;
+}
+.product-box:hover{
+	background-color:#eb4800;
+	-webkit-transition: all 0.2s linear;
+    -moz-transition: all 0.2s linear;
+    -o-transition: all 0.2s linear;
+    -ms-transition: all 0.2s linear;
+    transition: all 0.2s linear;
+	box-shadow: 0px 0px 5px #ccc;
+}
+/* .product-box a.category{
+	color:#eb4800;
+} */
+.product-box:hover p{
+	color:#fff !important;
+}
+.product-box img{
+	overflow:hidden;
+}
+.product-box p.title{
+	text-transform:uppercase;
+	color:#111111;
+	display:inline-block;
+	font-weight:bold;
+	font-size:11px;
+	margin:15px 0 0px 0;
+}
+.product-box p.price{
+	font-size:20px;
+	font-weight:300;
+	padding:10px 0;
+}
+.span3 {
+	width: 300px;
+}
+.thumbnail {
+  display: block;
+  padding: 4px;
+  line-height: 20px;
+  border: 1px solid #ddd;
+  -webkit-border-radius: 4px;
+  -moz-border-radius: 4px;
+  border-radius: 4px;
+  -webkit-box-shadow: 0 1px 3px rgba(0,0,0,0.055);
+  -moz-box-shadow: 0 1px 3px rgba(0,0,0,0.055);
+  box-shadow: 0 1px 3px rgba(0,0,0,0.055);
+  -webkit-transition: all .2s ease-in-out;
+  -moz-transition: all .2s ease-in-out;
+  -o-transition: all .2s ease-in-out;
+  transition: all .2s ease-in-out;
+}
+ul, li {
+	margin: 0px;
+	list-style-type: none;
+}

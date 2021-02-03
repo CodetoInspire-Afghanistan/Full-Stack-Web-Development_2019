@@ -1,0 +1,44 @@
+.alert {
+    background-color: white !important;
+    border: none !important;
+    font-size: 15px;
+}
+.alert-secondary {
+    margin-left: 0px !important;
+    width: 100% !important;
+    margin-bottom: 35px !important;
+}
+.float-left {
+    width: 80%;
+    height: 60%;
+}
+.main {
+    margin: 10px;
+}
+.img-thumbnail {
+    border-radius: 0px !important;
+    border: none !important;
+    /* max-width: 80% !important; */
+}
+.alert-link {
+    font-size: 17px !important;
+    color: black;
+    margin-left: 30px;
+    top: 0px !important;
+}
+p.author {
+    margin-left: 30px !important;
+    font-size: 14px !important;
+}
+.threecol {
+    background-color: white;
+    border: 1px solid #B4B4B4;
+    font-size: 12px;
+    border-radius: 2px;
+    height: 50px;
+    margin-top: 10px;
+    margin-right: 20px;
+}
+.threedes {
+    font-size: 11px;
+}

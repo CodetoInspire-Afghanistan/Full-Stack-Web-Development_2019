@@ -1,0 +1,57 @@
+.jumbotron{
+    padding: 1rem 2rem !important;
+     }
+     .modal-backdrop {
+      z-index: -1 !important; 
+      
+  }
+  .modal-backdrop.show {
+    z-index: -1 !important;
+    opacity: 0.5;
+}
+ 
+    
+    /* form */
+    .custom-choosefile-button{
+        border: 2px dashed #ccc;
+        width: 80px;
+        height: 90px;
+        cursor: pointer;
+        line-height: 110px;
+        text-align: center;
+      }
+      .custom-choosefile-button input{
+        display: none;
+      }
+    .custom-btn-color {
+       background: linear-gradient(to bottom,#f7dfa5,#f0c14b);   
+    }
+    .custom-btn {
+        cursor: pointer;
+    }
+    .custom-bg-green {
+      background-color: #a4d1d7 !important;
+  }
+  .custom-bg-orange {
+      background-color: #ffc107 !important;
+  }
+  .custom-link-color {
+      color: #ffc107 !important;
+  }
+  .custom-link-color:hover {
+      color: #ffc107 !important;
+  }
+  .custom-bg-orange {
+      background-color: #ffc107 !important;
+  }
+  .custom-link-color {
+      color: #ffc107 !important;
+  }
+  .custom-link-color:hover {
+      color: #ffc107 !important;
+  }
+  
+  .custom-btn {
+    border: none;
+    box-shadow: 1px 1px 2px black;
+  }
